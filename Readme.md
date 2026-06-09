@@ -1,8 +1,5 @@
 # Portfolio - 2
 ## Sensor Fusion - Particle Filter
-##Authors:
-* `Thota Bhuvana Chandra`
-* ` Sai Surya Mada`
 
 This project demonstrates a Python implementation of a particle filter designed to track multiple objects simultaneously. The code simulates the 2D projectile motion of several balls and then uses a sophisticated particle filter to estimate their trajectories (position and velocity) based on noisy and incomplete sensor data.
 
